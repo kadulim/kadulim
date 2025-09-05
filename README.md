@@ -1,52 +1,149 @@
-# 👋 Olá, eu sou o Kadu Lima!
+# Como personalizar o seu perfil no github!
 
-## Sobre mim  
+## Introdução
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade de Taubaté (UNITAU)**.  
-- 🎓 Formado em **Técnico em Desenvolvimento de Sistemas** pelo **SENAI (2024)**.  
-- 💻 Tenho conhecimento em **HTML, CSS, JavaScript, PHP, Laravel, Python, React Native, SQL e MySQL**.  
-- 📚 Atualmente estudando e me aprofundando em **backend, banco de dados e desenvolvimento de aplicações web e mobile**.  
-- 🎮 Tenho interesse em participar da criação de um **jogo no futuro**.  
-- 🌍 Moro em **Taubaté - SP**.  
-- 🔎 Projeto atual: **Site de Achados e Perdidos** para a comunidade acadêmica, com **QR Code para registro e retirada de itens**.  
+Oie gente! Sejam bem vindos a mais um roteiro de vídeo do [meu canal](https://youtube.com/rafaellaballerini), eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como personalizar o seu perfil no github.
 
----
+Caso você ainda não esteja familiarizado ou familizarizada com Git e Github, vou deixar aqui o [vídeo em que explico o que são essas duas tecnologias](https://www.youtube.com/watch?v=DqTITcMq68k) e o [vídeo de como utilizá-las](https://www.youtube.com/watch?v=UBAX-13g8OM).
 
-## 🚀 Minhas Habilidades  
+Então vamos lá, hoje vou ensinar a deixar o perfil de vocês bem parecido com o [meu](https://github.com/rafaballerini) e também disponibilizar customizações adicionais que vocês ainda podem fazer.
 
-### 💻 Tecnologias que utilizo:  
-![HTML](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![React Native](https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)  
+![Meu perfil personalizado no Github](https://media.discordapp.net/attachments/831974152667398214/859101524118208543/unknown.png?width=1225&height=670)
 
----
+## Configurações gerais do perfil
 
-## 📊 Estatísticas do GitHub  
+A primeira coisa que faremos é adicionar uma foto no nosso perfil que mostre quem somos. Vejo muita gente utilizar fotos de anime (eu mesma já fiz isso rs), por exemplo, mas eu recomendo tentar ou colocar uma foto de si ou algum desenho seu, que você tenha feito ou tenha direitos autorais sobre a imagem. 
 
-![Kadu GitHub stats](https://github-readme-stats.vercel.app/api?username=kadu-lima&show_icons=true&theme=tokyonight)  
+Não é nem pelo fato dos direitos autorais em si, mas sim pela credibilidade que você irá passar para quem entrar no seu perfil.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadu-lima&layout=compact&theme=tokyonight)  
+Depois iremos configurar as informações do nosso perfil que aparecem no canto esquerdo, pois por mais que elas sejam padrão, grade parte das pessoas que forem olhar o seu perfil vão focar nessa parte, pois mostra de onde você trabalha, para qual empresa, qual seu email de contato e muito mais.
 
----
+Para isso, clicamos em "Edit Profile" no canto esquerdo da nossa página de perfil:
 
-## 📫 Como me encontrar  
+![Edit profile](https://media.discordapp.net/attachments/831974152667398214/859115292369616946/unknown.png)
 
-- 📧 **Email:** *(adicione aqui seu email se quiser)*  
-- 💼 **LinkedIn:** [Seu LinkedIn aqui]  
-- 🖥️ **Projetos em destaque:** *(link para o site de achados e perdidos quando estiver online)*  
+Em seguida, completaremos com as informações que acharmos necessárias para algum outro desenvolvedor ou mesmo um recrutador olhar e entender quem você é.
 
----
+Na bio por exemplo coloquei `Instrutora, desenvolvedora front-end e criadora de conteúdo de programação e tecnologia!`. Então você pode completar com seu cargo ou o que estuda.
 
-## 🎯 Objetivo  
+Abaixo você adiciona a empresa que trabalha atualmente, sua localização, email de contato, link da sua página web (caso tenha) e seu twitter.
 
-Sempre em busca de **aprender, evoluir e construir soluções reais** com tecnologia.  
-Meu propósito é **crescer como desenvolvedor fullstack** e futuramente **contribuir no desenvolvimento de jogos**.  
+Você pode notar também que existem algumas outras informações abaixo dessas, porém se referem às organizações da [nossa comunidade do discord](https://discord.gg/G9GPg5SA75) ou da empresa que trabalho.
 
----
+## Criação do repositório do perfil
 
-👉 Esse README serve como meu cartão de visitas aqui no GitHub!  
+Agora vamos para o que interessa, que é a personalização do nosso perfil.
+
+Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é [`rafaballerini`](https://github.com/rafaballerini/rafaballerini).
+
+Logo que você cria esse repositório já aparece uma mensagem do próprio github dizendo que ele é especial.
+
+![Repositório especial](https://media.discordapp.net/attachments/831974152667398214/859295509894529064/unknown.png)
+
+Deixe-o público e inicialize ele com o `README.md`.
+
+## O que é markdown e como funciona
+
+Como vocês perceberam a extensão desse arquivo é `.md`, o que indica que ele é escrito em markdown
+
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+## Escrevendo o básico
+
+## Github Stats e diferentes formatos para ele
+
+Github Stats
+https://github.com/anuraghazra/github-readme-stats
+
+## Badges das tecnologias
+
+https://devicon.dev/
+
+## Links para redes sociais
+
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+## Gif
+
+https://picrew.me/image_maker/338224
+
+## Cobrinha
+
+https://www.instagram.com/p/CPjUBhXDNEE/
+
+## Exemplos de repositórios e outras ideias
+
+SIMBOLOS
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
+
+Youtube
+https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
+
+Descritivo
+https://github.com/garimasingh128/garimasingh128
+https://github.com/Defcon27/Defcon27
+https://github.com/onimur/onimur
+https://github.com/Rishit-dagli/Rishit-dagli
+https://github.com/bornmay/bornmay
+https://github.com/PrincessAkira/PrincessAkira ANIME
+
+Tecnologias
+https://github.com/techytushar/techytushar
+
+Código
+https://github.com/anmol098/anmol098
+
+Arte própria
+https://github.com/stephenajulu/stephena
+julu
+https://github.com/DennisHartrampf/DennisHartrampf
+
+Gifs
+https://github.com/ari-hacks/ari-hacks
+https://github.com/Prince-Shivaram/Prince-Shivaram
+https://github.com/Shanu1515/Shanu1515
+
+Digitação
+https://github.com/CyrisXD/CyrisXD
+https://github.com/mmphego/mmphego
+
+Minimalistas
+https://github.com/caneco/
+https://github.com/pr2tik1/pr2tik1
+
+Ferramentas
+
+To do list
+https://github.com/abhisheknaiidu/todoist-readme
+
+Dev time
+https://github.com/athul/waka-readme
+
+Spotify
+https://github.com/kittinan/spotify-github-profile
+https://github.com/novatorem/novatorem
+
+Linkedin
+https://github.com/soroushchehresa/github-readme-linkedin
+
+Stackoverflow
+https://github.com/omidnikrah/github-readme-stackoverflow
+
+Dev Jokes
+https://github.com/ABSphreak/readme-jokes
+
+Trofeus
+https://github.com/ryo-ma/github-profile-trophy
+
+Twitter
+https://github.com/gazf/github-readme-twitter
+
+Meme aleatorio
+https://github.com/techytushar/random-memer
+
+Quotes
+https://github.com/PiyushSuthar/github-readme-quotes
+
