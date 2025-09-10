@@ -1,149 +1,88 @@
-# Como personalizar o seu perfil no github!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=800&color=5907b4&section=header" alt="Header" style="width: 100%;">
 
-## Introdução
 
-Oie gente! Sejam bem vindos a mais um roteiro de vídeo do [meu canal](https://youtube.com/rafaellaballerini), eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como personalizar o seu perfil no github.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&letterSpacing=&pause=1000&color=ADD8E6&center=true&width=1000&lines=%F0%9F%91%8B+Hello%2C+my+name+is+Eduardo+Walace.;%F0%9F%92%BB+I+am+a+Full+Stack+Developer.;%F0%9F%9A%80+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Caso você ainda não esteja familiarizado ou familizarizada com Git e Github, vou deixar aqui o [vídeo em que explico o que são essas duas tecnologias](https://www.youtube.com/watch?v=DqTITcMq68k) e o [vídeo de como utilizá-las](https://www.youtube.com/watch?v=UBAX-13g8OM).
+<h2 align="center">SOBRE MIM</h2>
+<br>
+Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes, modernas e inovadoras.
 
-Então vamos lá, hoje vou ensinar a deixar o perfil de vocês bem parecido com o [meu](https://github.com/rafaballerini) e também disponibilizar customizações adicionais que vocês ainda podem fazer.
+---
 
-![Meu perfil personalizado no Github](https://media.discordapp.net/attachments/831974152667398214/859101524118208543/unknown.png?width=1225&height=670)
+> ESTATÍSTICAS
 
-## Configurações gerais do perfil
+<div align="center">  
+<img width=400 src="https://streak-stats.demolab.com?user=duwalace&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=dark&ring=ADD8E6&fire=ADD8E6&sideNums=ADD8E6">
+<img height="155" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&hide_border=true&layout=compact&theme=dark&title_color=ADD8E6&text_color=ADD8E6&icon_color=ADD8E6"/>
+</div>
+<br>
 
-A primeira coisa que faremos é adicionar uma foto no nosso perfil que mostre quem somos. Vejo muita gente utilizar fotos de anime (eu mesma já fiz isso rs), por exemplo, mas eu recomendo tentar ou colocar uma foto de si ou algum desenho seu, que você tenha feito ou tenha direitos autorais sobre a imagem. 
+> PRINCIPAIS SKILLS
 
-Não é nem pelo fato dos direitos autorais em si, mas sim pela credibilidade que você irá passar para quem entrar no seu perfil.
+<div align="center">
+<img margin-top:50px src="https://skillicons.dev/icons?i=javascript,php,laravel,mysql,python,bootstrap&perline=10" />
+</div>
 
-Depois iremos configurar as informações do nosso perfil que aparecem no canto esquerdo, pois por mais que elas sejam padrão, grade parte das pessoas que forem olhar o seu perfil vão focar nessa parte, pois mostra de onde você trabalha, para qual empresa, qual seu email de contato e muito mais.
+---
 
-Para isso, clicamos em "Edit Profile" no canto esquerdo da nossa página de perfil:
+> 🏆 Conquistas
 
-![Edit profile](https://media.discordapp.net/attachments/831974152667398214/859115292369616946/unknown.png)
+- 🥇 *Selecionado como um dos 16 melhores projetos do SENAI em 2024*
+- 🥉 *Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo*
 
-Em seguida, completaremos com as informações que acharmos necessárias para algum outro desenvolvedor ou mesmo um recrutador olhar e entender quem você é.
+---
 
-Na bio por exemplo coloquei `Instrutora, desenvolvedora front-end e criadora de conteúdo de programação e tecnologia!`. Então você pode completar com seu cargo ou o que estuda.
+> 🛠 Tecnologias
 
-Abaixo você adiciona a empresa que trabalha atualmente, sua localização, email de contato, link da sua página web (caso tenha) e seu twitter.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</div>
 
-Você pode notar também que existem algumas outras informações abaixo dessas, porém se referem às organizações da [nossa comunidade do discord](https://discord.gg/G9GPg5SA75) ou da empresa que trabalho.
+---
 
-## Criação do repositório do perfil
+> CONTATOS
 
-Agora vamos para o que interessa, que é a personalização do nosso perfil.
+<div align="center">
+<a href = "mailto:eduardowalace2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="www.linkedin.com/in/eduardo-walace/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é [`rafaballerini`](https://github.com/rafaballerini/rafaballerini).
+---
 
-Logo que você cria esse repositório já aparece uma mensagem do próprio github dizendo que ele é especial.
+> <h2 style="color: white;">🚀 Projetos</h2>
 
-![Repositório especial](https://media.discordapp.net/attachments/831974152667398214/859295509894529064/unknown.png)
+<h3 style="color: white;">🌸 Viva Flor</h3>
 
-Deixe-o público e inicialize ele com o `README.md`.
+> **Descrição**: Plataforma desenvolvida para facilitar o gerenciamento e a venda de flores e arranjos, conectando floriculturas a clientes de forma prática e eficiente.  
+> **Destaques**: Projeto com foco em experiência do usuário, acessibilidade e design responsivo.  
+> **Tecnologias**: PHP, Laravel, Javascript, React, CSS, HTML, Python, SQL.  
+> **Meu Papel**: Atuei como desenvolvedor Full Stack, contribuindo no front-end e back-end do sistema. Participei ativamente das decisões de design e lógica do sistema, utilizando práticas ágeis (Scrum) para o desenvolvimento em equipe.
 
-## O que é markdown e como funciona
+---
 
-Como vocês perceberam a extensão desse arquivo é `.md`, o que indica que ele é escrito em markdown
+> 🎓 Formação e Experiência
 
-https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo *SENAI*
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo *SENAI*
+- 🏆 Experiência liderando equipes e projetos
+- 🏅 Participação em competições e eventos da área de tecnologia
 
-## Escrevendo o básico
+---
 
-## Github Stats e diferentes formatos para ele
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+</picture>
 
-Github Stats
-https://github.com/anuraghazra/github-readme-stats
-
-## Badges das tecnologias
-
-https://devicon.dev/
-
-## Links para redes sociais
-
-https://dev.to/envoy_/150-badges-for-github-pnk
-
-## Gif
-
-https://picrew.me/image_maker/338224
-
-## Cobrinha
-
-https://www.instagram.com/p/CPjUBhXDNEE/
-
-## Exemplos de repositórios e outras ideias
-
-SIMBOLOS
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://dev.to/envoy_/150-badges-for-github-pnk
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
-
-Youtube
-https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
-
-Descritivo
-https://github.com/garimasingh128/garimasingh128
-https://github.com/Defcon27/Defcon27
-https://github.com/onimur/onimur
-https://github.com/Rishit-dagli/Rishit-dagli
-https://github.com/bornmay/bornmay
-https://github.com/PrincessAkira/PrincessAkira ANIME
-
-Tecnologias
-https://github.com/techytushar/techytushar
-
-Código
-https://github.com/anmol098/anmol098
-
-Arte própria
-https://github.com/stephenajulu/stephena
-julu
-https://github.com/DennisHartrampf/DennisHartrampf
-
-Gifs
-https://github.com/ari-hacks/ari-hacks
-https://github.com/Prince-Shivaram/Prince-Shivaram
-https://github.com/Shanu1515/Shanu1515
-
-Digitação
-https://github.com/CyrisXD/CyrisXD
-https://github.com/mmphego/mmphego
-
-Minimalistas
-https://github.com/caneco/
-https://github.com/pr2tik1/pr2tik1
-
-Ferramentas
-
-To do list
-https://github.com/abhisheknaiidu/todoist-readme
-
-Dev time
-https://github.com/athul/waka-readme
-
-Spotify
-https://github.com/kittinan/spotify-github-profile
-https://github.com/novatorem/novatorem
-
-Linkedin
-https://github.com/soroushchehresa/github-readme-linkedin
-
-Stackoverflow
-https://github.com/omidnikrah/github-readme-stackoverflow
-
-Dev Jokes
-https://github.com/ABSphreak/readme-jokes
-
-Trofeus
-https://github.com/ryo-ma/github-profile-trophy
-
-Twitter
-https://github.com/gazf/github-readme-twitter
-
-Meme aleatorio
-https://github.com/techytushar/random-memer
-
-Quotes
-https://github.com/PiyushSuthar/github-readme-quotes
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5907b4&reversal=false&section=footer" alt="Footer Capsule" style="width: 100%;">
 
