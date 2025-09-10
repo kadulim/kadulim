@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=12,24,36&section=header" alt="Header">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=38B6FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Olá%2C+meu+nome+é+Kadu+Lima;%F0%9F%92%BB+Desenvolvedor+Full+Stack;%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=38B6FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Olá%2C+meu+nome+é+Carlos+Eduardo+Lima;%F0%9F%92%BB+Desenvolvedor+Full+Stack;%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-  Sou <strong>Kadu Lima</strong>, tenho 18 anos e sou apaixonado por tecnologia. 💻<br>
+  Sou <strong>Carlos Eduardo Lima</strong>, tenho 18 anos e sou apaixonado por tecnologia. 💻<br>
   Estudo <em>Análise e Desenvolvimento de Sistemas</em> na <strong>Faculdade de Taubaté</strong> e concluí o curso técnico em <em>Desenvolvimento de Sistemas</em> no <strong>SENAI</strong> em 2024.<br>
   Tenho experiência com desenvolvimento web e mobile, utilizando diversas tecnologias para criar soluções modernas e eficientes. 🚀
 </p>
@@ -29,11 +29,11 @@
 <details open>
   <summary><h2>📊 ESTATÍSTICAS</h2></summary>
   <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadu-lima&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" alt="Kadu Lima github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu-lima&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo Lima github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
   </div>
   <div align="center">
-    <img width="90%" src="https://streak-stats.demolab.com?user=kadu-lima&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF">
+    <img width="90%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF">
   </div>
 </details>
 
