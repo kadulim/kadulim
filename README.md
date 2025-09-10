@@ -29,11 +29,11 @@
 <details open>
   <summary><h2>📊 ESTATÍSTICAS</h2></summary>
   <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo Lima github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo Lima github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
   </div>
   <div align="center">
-    <img width="90%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF">
+    <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF">
   </div>
 </details>
 
