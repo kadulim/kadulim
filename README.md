@@ -20,7 +20,7 @@
 Sou **Carlos Eduardo Lima**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.
 
 🎓 Formação técnica em Desenvolvimento de Sistemas (SENAI – 2024)  
-🎓 Graduando em ADS – Faculdade de Taubaté  
+🎓 Graduando em ADS – Faculdade Félix Guisard  
 💡 Foco principal em desenvolvimento **Back-end com Laravel**  
 🚀 Experiência prática com APIs, autenticação com tokens, dashboards administrativas e integração com banco de dados.
 
@@ -45,12 +45,12 @@ Tenho facilidade em aprender novas tecnologias e gosto de transformar ideias em 
 
 ### 🔥 Principais Competências
 
-- Desenvolvimento de APIs REST
-- Autenticação com Token (Laravel)
-- Controle de acesso por níveis
-- CRUD completo com integração MySQL
-- Estruturação de projetos MVC
-- Versionamento com Git
+- Desenvolvimento de APIs REST  
+- Autenticação com Token (Laravel)  
+- Controle de acesso por níveis  
+- CRUD completo com integração MySQL  
+- Estruturação de projetos MVC  
+- Versionamento com Git  
 
 ---
 
@@ -61,10 +61,10 @@ Tenho facilidade em aprender novas tecnologias e gosto de transformar ideias em 
 **Sistema de Dashboard Administrativa**
 
 📌 Funcionalidades:
-- Autenticação de usuários
-- Controle de acesso por nível
-- Sistema dinâmico de carregamento de páginas
-- Gerenciamento de dados com CRUD completo
+- Autenticação de usuários  
+- Controle de acesso por nível  
+- Sistema dinâmico de carregamento de páginas  
+- Gerenciamento de dados com CRUD completo  
 
 🛠 Tecnologias:
 `Laravel` • `PHP` • `MySQL` • `Bootstrap`
@@ -73,10 +73,10 @@ Tenho facilidade em aprender novas tecnologias e gosto de transformar ideias em 
 
 ## 🏆 CONQUISTAS
 
-- 🥇 Conclusão do curso Técnico em Desenvolvimento de Sistemas – SENAI (2024)
-- 🎓 Ingresso na graduação em ADS
-- 🚀 Desenvolvimento de projetos acadêmicos e pessoais com aplicação real
-- 📌 Experiência com metodologia ágil (Scrum)
+- 🥇 Conclusão do curso Técnico em Desenvolvimento de Sistemas – SENAI (2024)  
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas – Faculdade Félix Guisard  
+- 🚀 Desenvolvimento de projetos acadêmicos e pessoais com aplicação real  
+- 📌 Experiência com metodologia ágil (Scrum)  
 
 ---
 
