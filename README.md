@@ -86,6 +86,5 @@ Busco uma oportunidade de **estágio na área de desenvolvimento**, onde eu poss
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,24,36&section=footer" width="100%">
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,24,36&section=footer" width="100%">
+</div>atualize aqui nesse arquivo
