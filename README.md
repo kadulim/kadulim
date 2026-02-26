@@ -76,8 +76,8 @@ Tenho facilidade em aprender novas tecnologias e gosto de transformar ideias em 
 - 🥇 Conclusão do curso Técnico em Desenvolvimento de Sistemas – SENAI (2024)  
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas – Faculdade Félix Guisard  
 - 🚀 Desenvolvimento de projetos acadêmicos e pessoais com aplicação real  
-- 📌 Experiência com metodologia ágil (Scrum)  
-
+- 📌 Experiência com metodologia ágil (Scrum)
+  
 ---
 
 ## 🎯 OBJETIVO PROFISSIONAL
