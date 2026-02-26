@@ -1,1 +1,99 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=12,24,36&section=header" alt="Header"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=4000&pause=1000&color=38B6FF&center=true&vCenter=true&width=1000&lines=👋+Olá,+eu+sou+Carlos+Eduardo+Lima;💻+Desenvolvedor+Full+Stack;🚀+Foco+em+Back-end+com+Laravel;🎯+Buscando+Estágio+em+Desenvolvimento" /> </div> <div align="center"> <a href="mailto:kadu.carloslima@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/carlos-eduardo-lima-213958348" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> --- ## 👨‍💻 SOBRE MIM Sou estudante de **Análise e Desenvolvimento de Sistemas** com formação técnica em **Desenvolvimento de Sistemas** pelo SENAI (2024). Tenho foco em desenvolvimento **Back-end com Laravel**, criação de **APIs REST**, autenticação com tokens e estruturação de sistemas seguindo o padrão **MVC**. Possuo experiência prática com: - Desenvolvimento de dashboards administrativas - Controle de acesso baseado em níveis de usuário - CRUD completo com integração MySQL - Versionamento com Git - Aplicação de metodologia ágil (Scrum) Estou em constante evolução técnica e busco oportunidades para aplicar meus conhecimentos em projetos reais. --- ## 📊 ESTATÍSTICAS <div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" /> </div> <div align="center"> <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF"> </div> --- ## 💻 STACK PRINCIPAL <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,mysql,python,react,bootstrap,nodejs,git&theme=dark&perline=5" /> </div> --- ## 🚀 PROJETOS EM DESTAQUE ### 📦 Módulo A – Sistema de Dashboard Administrativa Sistema desenvolvido em **Laravel** com autenticação e controle de permissões baseado em níveis de usuário. ### 🔹 Funcionalidades: - Sistema de login com autenticação - Controle de acesso por perfil - Carregamento dinâmico de páginas na dashboard - CRUD completo integrado ao banco de dados - Organização seguindo padrão MVC ### 🛠 Tecnologias utilizadas: Laravel • PHP • MySQL • Bootstrap • JavaScript --- ## 🏆 CONQUISTAS - 🥇 Formação Técnica em Desenvolvimento de Sistemas – SENAI (2024) - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - 🚀 Desenvolvimento de projetos acadêmicos e pessoais com aplicação prática - 📌 Experiência com metodologia ágil (Scrum) --- ## 🎯 OBJETIVO PROFISSIONAL Busco uma oportunidade de **estágio na área de desenvolvimento**, com foco em back-end, onde eu possa contribuir com minhas habilidades técnicas e evoluir profissionalmente em um ambiente desafiador. --- <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" /> </picture> </div> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,24,36&section=footer" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=12,24,36&section=header" alt="Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=4000&pause=1000&color=38B6FF&center=true&vCenter=true&width=1000&lines=👋+Olá,+eu+sou+Carlos+Eduardo+Lima;💻+Desenvolvedor+Full+Stack;🚀+Foco+em+Back-end+com+Laravel;🎯+Buscando+Estágio+em+Desenvolvimento" />
+</div>
+
+<div align="center">
+  <a href="mailto:kadu.carloslima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-lima-213958348" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 👨‍💻 SOBRE MIM
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAI Félix Guisard**, com formação técnica em **Desenvolvimento de Sistemas** pelo SENAI (2024).
+
+Tenho foco em desenvolvimento **Back-end com Laravel**, criação de **APIs REST**, autenticação com tokens e estruturação de sistemas seguindo o padrão **MVC**.
+
+Possuo experiência prática com:
+
+- Desenvolvimento de dashboards administrativas  
+- Controle de acesso baseado em níveis de usuário  
+- CRUD completo com integração MySQL  
+- Versionamento com Git  
+- Aplicação de metodologia ágil (Scrum)  
+
+Estou em constante evolução técnica e busco oportunidades para aplicar meus conhecimentos em projetos reais.
+
+---
+
+## 📊 ESTATÍSTICAS
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF">
+</div>
+
+---
+
+## 💻 STACK PRINCIPAL
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,mysql,python,react,bootstrap,nodejs,git&theme=dark&perline=5" />
+</div>
+
+---
+
+## 🚀 PROJETOS EM DESTAQUE
+
+### 📦 Módulo A – Sistema de Dashboard Administrativa
+
+Sistema desenvolvido em **Laravel** com autenticação e controle de permissões baseado em níveis de usuário.
+
+### 🔹 Funcionalidades:
+
+- Sistema de login com autenticação  
+- Controle de acesso por perfil  
+- Carregamento dinâmico de páginas na dashboard  
+- CRUD completo integrado ao banco de dados  
+- Organização seguindo padrão MVC  
+
+### 🛠 Tecnologias utilizadas:
+
+Laravel • PHP • MySQL • Bootstrap • JavaScript  
+
+---
+
+## 🏆 CONQUISTAS
+
+- 🥇 Formação Técnica em Desenvolvimento de Sistemas – SENAI (2024)  
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas – Faculdade SENAI Félix Guisard  
+- 🚀 Desenvolvimento de projetos acadêmicos e pessoais com aplicação prática  
+- 📌 Experiência com metodologia ágil (Scrum)  
+
+---
+
+## 🎯 OBJETIVO PROFISSIONAL
+
+Busco uma oportunidade de **estágio na área de desenvolvimento**, com foco em back-end, onde eu possa contribuir com minhas habilidades técnicas e evoluir profissionalmente em um ambiente desafiador.
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,24,36&section=footer" width="100%">
