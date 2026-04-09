@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=12,24,36&section=header" alt="Header">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=12,24,36&section=header" width="100%" alt="Header">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=4000&pause=1000&color=38B6FF&center=true&vCenter=true&width=1000&lines=👋+Olá,+eu+sou+Carlos+Eduardo+Lima;💻+Desenvolvedor+Full+Stack;🚀+Foco+em+Back-end+com+Laravel;🎯+Buscando+Estágio+em+Desenvolvimento" />
-</div>
+</p>
 
 <div align="center">
   <a href="mailto:kadu.carloslima@gmail.com">
@@ -54,7 +54,24 @@ Desenvolvimento de uma interface para listagem e download de jogos consumindo da
 ## 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" alt="GitHub Streak" />
+  
+  <br/><br/>
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=FFFFFF&icon_color=38B6FF" alt="Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=FFFFFF" alt="Linguagens" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadulim&theme=react-dark&bg_color=0D1117&hide_border=true&color=38B6FF&point=38B6FF" alt="Activity Graph" />
 </div>
 
 ---
@@ -73,4 +90,4 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento**, onde eu po
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,24,36&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=100%&color=gradient&customColorList=12,24,36&section=footer" width="100%">
