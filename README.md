@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=12,24,36&section=header" width="100%" alt="Header">
+  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=4000&pause=1000&color=38B6FF&center=true&vCenter=true&width=1000&lines=👋+Olá,+eu+sou+Carlos+Eduardo+Lima;💻+Desenvolvedor+Full+Stack;🚀+Foco+em+Back-end+com+Laravel;🎯+Buscando+Estágio+em+Desenvolvimento" />
+</p>
+
+<p align="center">
+  <i>"No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."</i> <br>
+  <b>— João 1:1</b>
 </p>
 
 <div align="center">
