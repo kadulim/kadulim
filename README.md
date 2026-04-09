@@ -54,11 +54,6 @@ Desenvolvimento de uma interface para listagem e download de jogos consumindo da
 ## 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" />
 </div>
 
