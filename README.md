@@ -55,22 +55,7 @@ Desenvolvimento de uma interface para listagem e download de jogos consumindo da
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" alt="GitHub Streak" />
-  
   <br/><br/>
-
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=FFFFFF&icon_color=38B6FF" alt="Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=FFFFFF" alt="Linguagens" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadulim&theme=react-dark&bg_color=0D1117&hide_border=true&color=38B6FF&point=38B6FF" alt="Activity Graph" />
 </div>
 
