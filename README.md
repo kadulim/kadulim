@@ -39,15 +39,18 @@ Meu foco principal é o ecossistema **Back-end com Laravel**, onde trabalho na c
 
 ## 🚀 PROJETOS EM DESTAQUE
 
+### ⛪ Sistema de Gestão de Catequese e Crisma
+Ecossistema completo desenvolvido para automatizar o registro e acompanhamento de alunos e crismandos.
+
+* **Módulo Administrativo (Laravel):** Painel para controle de matrículas, turmas, presença e emissão de certificados. Focado em facilitar a gestão paroquial com interface intuitiva.
+* **Módulo de Consulta (Python/Flask):** Interface rápida para consulta de status e documentos estruturados.
+* **Tecnologias:** `Laravel` • `PHP` • `Python` • `Flask` • `MySQL` • `Bootstrap`
+
 ### 📦 Módulo A – Sistema de Dashboard Administrativa
-Sistema robusto desenvolvido em **Laravel** para gestão empresarial, com foco em segurança e escalabilidade.
+Sistema robusto focado em gestão empresarial, com foco em segurança e escalabilidade.
 
-* **Funcionalidades:** Login seguro, níveis de permissão diferenciados, carregamento dinâmico de componentes e integração total com banco de dados.
+* **Funcionalidades:** Login seguro, níveis de permissão (RBAC), carregamento dinâmico de componentes e integração total com banco de dados.
 * **Tecnologias:** `Laravel` • `PHP` • `MySQL` • `Bootstrap` • `JavaScript`
-
-### 🎮 Game Store (Interface JSON)
-Desenvolvimento de uma interface para listagem e download de jogos consumindo dados estruturados em JSON.
-* **Tecnologias:** `Python` • `Flask` • `SQLAlchemy`
 
 ---
 
