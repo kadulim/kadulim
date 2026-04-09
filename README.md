@@ -5,10 +5,10 @@
 
 <div align="center">
   <a href="mailto:kadu.carloslima@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-lima-213958348" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -16,40 +16,23 @@
 
 ## 👨‍💻 SOBRE MIM
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAI Félix Guisard**, com formação técnica em **Desenvolvimento de Sistemas** pelo SENAI (2024).
+Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAI Félix Guisard**, sou formado como **Técnico em Desenvolvimento de Sistemas** pelo SENAI (2024).
 
-Tenho foco em desenvolvimento **Back-end com Laravel**, criação de **APIs REST**, autenticação com tokens e estruturação de sistemas seguindo o padrão **MVC**.
+Meu foco principal é o ecossistema **Back-end com Laravel**, onde trabalho na construção de **APIs RESTful**, sistemas de autenticação robustos e arquiteturas seguindo o padrão **MVC**.
 
-Possuo experiência prática com:
+### 🛠️ Experiência Prática:
 
-- Desenvolvimento de dashboards administrativas  
-- Controle de acesso baseado em níveis de usuário  
-- CRUD completo com integração MySQL  
-- Versionamento com Git  
-- Aplicação de metodologia ágil (Scrum)  
-
-Estou em constante evolução técnica e busco oportunidades para aplicar meus conhecimentos em projetos reais.
+* **Dashboards Administrativas:** Desenvolvimento de interfaces de gestão com foco em UX.
+* **Segurança:** Implementação de controle de acesso (RBAC) e autenticação via tokens.
+* **Persistência de Dados:** CRUDs complexos com **MySQL** e ORM (Eloquent/SQLAlchemy).
+* **Versionamento e Agilidade:** Fluxo de trabalho com Git e metodologias ágeis (Scrum/Kanban).
 
 ---
 
-## 📊 ESTATÍSTICAS
+## 💻 TECH STACK
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" />
-</div>
----
-
-## 💻 STACK PRINCIPAL
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,mysql,python,react,bootstrap,nodejs,git&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,mysql,python,flask,react,nextjs,bootstrap,git,linux&theme=dark&perline=7" />
 </div>
 
 ---
@@ -57,35 +40,33 @@ Estou em constante evolução técnica e busco oportunidades para aplicar meus c
 ## 🚀 PROJETOS EM DESTAQUE
 
 ### 📦 Módulo A – Sistema de Dashboard Administrativa
+Sistema robusto desenvolvido em **Laravel** para gestão empresarial, com foco em segurança e escalabilidade.
 
-Sistema desenvolvido em **Laravel** com autenticação e controle de permissões baseado em níveis de usuário.
+* **Funcionalidades:** Login seguro, níveis de permissão diferenciados, carregamento dinâmico de componentes e integração total com banco de dados.
+* **Tecnologias:** `Laravel` • `PHP` • `MySQL` • `Bootstrap` • `JavaScript`
 
-### 🔹 Funcionalidades:
-
-- Sistema de login com autenticação  
-- Controle de acesso por perfil  
-- Carregamento dinâmico de páginas na dashboard  
-- CRUD completo integrado ao banco de dados  
-- Organização seguindo padrão MVC  
-
-### 🛠 Tecnologias utilizadas:
-
-Laravel • PHP • MySQL • Bootstrap • JavaScript  
+### 🎮 Game Store (Interface JSON)
+Desenvolvimento de uma interface para listagem e download de jogos consumindo dados estruturados em JSON.
+* **Tecnologias:** `Python` • `Flask` • `SQLAlchemy`
 
 ---
 
-## 🏆 CONQUISTAS
+## 📊 ESTATÍSTICAS DO GITHUB
 
-- 🥇 Formação Técnica em Desenvolvimento de Sistemas – SENAI (2024)  
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas – Faculdade SENAI Félix Guisard  
-- 🚀 Desenvolvimento de projetos acadêmicos e pessoais com aplicação prática  
-- 📌 Experiência com metodologia ágil (Scrum)  
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kadulim&show_icons=true&count_private=true&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadulim&layout=compact&hide_border=true&title_color=38B6FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" />
+</div>
 
 ---
 
-## 🎯 OBJETIVO PROFISSIONAL
+## 🎯 OBJETIVO
 
-Busco uma oportunidade de **estágio na área de desenvolvimento**, com foco em back-end, onde eu possa contribuir com minhas habilidades técnicas e evoluir profissionalmente em um ambiente desafiador.
+Atualmente busco uma oportunidade de **estágio em desenvolvimento**, onde eu possa aplicar meu conhecimento em Back-end e colaborar com times que prezam por código limpo e soluções eficientes.
 
 ---
 
