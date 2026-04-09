@@ -40,14 +40,14 @@ Meu foco principal é o ecossistema **Back-end com Laravel**, onde trabalho na c
 ## 🚀 PROJETOS EM DESTAQUE
 
 ### ⛪ Sistema de Gestão de Catequese e Crisma
-Ecossistema completo desenvolvido para automatizar o registro e acompanhamento de alunos e crismandos.
+Ecossistema desenvolvido para automatizar o registro e o acompanhamento de alunos e crismandos, substituindo processos manuais por uma solução digital eficiente.
 
-* **Módulo Administrativo (Laravel):** Painel para controle de matrículas, turmas, presença e emissão de certificados. Focado em facilitar a gestão paroquial com interface intuitiva.
-* **Módulo de Consulta (Python/Flask):** Interface rápida para consulta de status e documentos estruturados.
-* **Tecnologias:** `Laravel` • `PHP` • `Python` • `Flask` • `MySQL` • `Bootstrap`
+* **Funcionalidades:** Controle de matrículas, gestão de turmas e geração de documentos estruturados.
+* **Arquitetura:** Uso de ORM para mapeamento de banco de dados e rotas dinâmicas para consulta rápida.
+* **Tecnologias:** `Python` • `Flask` • `SQLAlchemy` • `MySQL`
 
 ### 📦 Módulo A – Sistema de Dashboard Administrativa
-Sistema robusto focado em gestão empresarial, com foco em segurança e escalabilidade.
+Sistema robusto desenvolvido em **Laravel** para gestão empresarial, com foco em segurança e escalabilidade.
 
 * **Funcionalidades:** Login seguro, níveis de permissão (RBAC), carregamento dinâmico de componentes e integração total com banco de dados.
 * **Tecnologias:** `Laravel` • `PHP` • `MySQL` • `Bootstrap` • `JavaScript`
@@ -58,7 +58,9 @@ Sistema robusto focado em gestão empresarial, com foco em segurança e escalabi
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=kadulim&hide_border=true&locale=pt_BR&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakNum=FFFFFF&sideNums=38B6FF&currStreakLabel=38B6FF&sideLabels=38B6FF&dates=FFFFFF" alt="GitHub Streak" />
+  
   <br/><br/>
+
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadulim&theme=react-dark&bg_color=0D1117&hide_border=true&color=38B6FF&point=38B6FF" alt="Activity Graph" />
 </div>
 
